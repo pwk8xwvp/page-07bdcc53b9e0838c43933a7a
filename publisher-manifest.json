@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1167e35c50f98cbc0243a610",
+  "owner": "pwk8xwvp",
+  "repo": "page-07bdcc53b9e0838c43933a7a",
+  "title": "落英",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "07bdcc53b9e0838c43933a7a",
+      "a": "落英",
+      "b": "2027官方最新地址导航",
+      "entity": "落英",
+      "brand": "落英",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8a94a479f7f2dc6e59e79340438cea2ed0142f158420de5207fc07bf35fa10f7",
+      "content": {
+        "primary_entity": "落英",
+        "keyword1": "落英",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，路由器需确认固件支持。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，配好订阅，按客户端文档完成设置即可使用。",
+          "AI_CLOSING_TITLE": "开始配置落英订阅",
+          "AI_DESCRIPTION": "，覆盖 Windows、macOS、iOS、Android 与路由器等多种设备环境。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并带 IPLC 专线游戏加速，团队版每月 1000GB 支持 20 台设备与定制路由。按年付可省两个月费用，客户端订阅配置请对照设备文档操作。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，先理清需求再开通。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，适合手机与电脑日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 支持 5 台设备，IPLC 专线优化游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "套餐按需分层",
+          "AI_FEATURE_TITLE_2": "设备在线数量",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成落英订阅配置，从选择服务到客户端导入。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "落英提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台和 20 台设备同时在线。按年付价格分别是 ¥150、¥350 和 ¥850，覆盖流媒体解锁、IPLC 专线加速与企业定制路由等场景。",
+          "AI_HERO_SUBTITLE": "落英订阅套餐按设备与流量分层",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，300GB 流量 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与线路类型上有差异，按年付均可节省两个月费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择对应套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与线路类型，确认路由器或系统环境满足客户端要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端的订阅导入说明完成配置，保持客户端版本更新。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "落英套餐与设备适配",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。可按设备数和流量需求选择。",
+          "AI_FAQ_ANSWER_2": "可以。Windows、macOS、iOS、Android 与路由器均有对应客户端，按文档导入订阅即可，具体兼容情况以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。长期使用可选年付节省支出。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和流媒体有要求的用户；团队版提供 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由与专属客户经理，适合小型团队或多人共享场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "落英支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_QUESTION_5": "团队版最多支持多少台设备同时使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yzqtlb.cn",
+    "host": "yzqtlb.cn"
+  },
+  "file_hashes": {
+    "index.html": "8651db7b6848ed79c56fb1373810fc1d2ac1b52c233b240d9cff7dc2714a3eb8",
+    "sitemap.xml": "e45dac3e2bcbc74f42dae6452db90a5ccdcfffe337999401bf62b38ba91340cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8fb1ad570a91a9f9ab1246b2b908683208e3e93affd827fe7517bea73e0b9c98",
+    "robots.txt": "dfa878081116642f262c39b025a70273691711766774d8947dbb5f41b00d8a09",
+    "028db252a084819db14a1d06dd15b420.txt": "18ed3bf2df80b189c4976ecf2c69173a9bf521df30d0f512d18b83434a7680d9"
+  },
+  "revision": "ce183f4eaed7615760d7287535afcd4b37d6aefc1d412ae92dad13a1d50b0073"
+}
